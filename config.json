@@ -1,0 +1,43 @@
+{
+  "proxies": {"http" : "socks5://Rk8wohRwUCKF6POl: XiUOyjFR2d1lW17r@geo.iproyal.com:32325"
+  },
+  "headers": {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+  },
+
+  "OpenAI_API_KEY": "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",
+  "OpenAI_Model": "gpt-3.5-turbo",
+  "resume_path": "/Users/vishesh/Desktop/Resume/Machine Learning/Walia_Vishesh_Resume.pdf",
+
+  "search_queries": [    
+    {"keywords": "Marketing Data Analyst", "location": "USA", "f_WT": ""},
+    {"keywords": "Data Analyst", "location": "USA", "f_WT": ""},
+    {"keywords": "Business Analyst", "location": "USA", "f_WT": ""},
+    {"keywords": "Data Scientist", "location": "USA", "f_WT": ""},
+    {"keywords": "Business Intelligence", "location": "USA", "f_WT": ""},
+    {"keywords": "Data Engineer", "location": "USA", "f_WT": ""},
+    {"keywords": "Product Analyst", "location": "USA", "f_WT": ""},
+    {"keywords": "Market Research Analyst", "location": "USA", "f_WT": ""},
+    {"keywords": "Reporting Analyst", "location": "USA", "f_WT": ""},
+    {"keywords": "Statistical Analyst", "location": "USA", "f_WT": ""},
+    {"keywords": "Database Analyst", "location": "USA", "f_WT": ""},
+    {"keywords": "Machine Learning Engineer", "location": "USA", "f_WT": ""},
+    {"keywords": "AI Engineer", "location": "USA", "f_WT": ""},
+    {"keywords": "BI Developer", "location": "USA", "f_WT": ""},
+    {"keywords": "Data Quality Analyst", "location": "USA", "f_WT": ""},
+    {"keywords": "Econometrics", "location": "USA", "f_WT": ""}
+  ],
+  "desc_words": [],
+  "title_exclude": ["software", "systems", "web"],
+  "title_include": ["python", "data", "analyst", "BE","scientist","powerbi","aws","marketing", "associate", "BI"],
+  "company_exclude": ["ATC", "Actalent","Amerit Consulting", "Astir IT Solutions, Inc.", "HireMeFast LLC", "HireTalent - Diversity Staffing & Recruiting Firm", "JSVV SOLS LLC"],
+  "languages": ["en"],
+  "timespan": "r84600",
+  "jobs_tablename": "jobs",
+  "filtered_jobs_tablename": "filtered_jobs",
+  "db_path": "/Users/vishesh/Desktop/insura/my_database.db",
+  "pages_to_scrape": 10,
+  "rounds": 1,
+  "days_to_scrape": 3,
+  "app_table": "jobs"
+  }
+  
