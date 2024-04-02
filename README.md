@@ -5,7 +5,6 @@ New version includes OpenAI integration for cover letter generation. See below f
 ## LinkedIn Job Scraper
 
 This is a Python application that scrapes job postings from LinkedIn and stores them in a SQLite database. The application also provides a web interface to view the job postings and mark them as applied, rejected,interview, and hidden.
-![Screenshot image](./screenshot/screenshot1.png)
 
 ### Problem
 
