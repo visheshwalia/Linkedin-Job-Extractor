@@ -1,12 +1,12 @@
 {
-  "proxies": {"http" : "socks5://Rk8wohRwUCKF6POl: XiUOyjFR2d1lW17r@geo.iproyal.com:32325"
+  "proxies": {"http" : "socks5://<proxy>"
   },
   "headers": {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
   },
 
-  "OpenAI_API_KEY": "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",
+  "OpenAI_API_KEY": "<chatgpt-api>",
   "OpenAI_Model": "gpt-3.5-turbo",
-  "resume_path": "/Users/vishesh/Desktop/Resume/Machine Learning/Walia_Vishesh_Resume.pdf",
+  "resume_path": <resume-path>,
 
   "search_queries": [    
     {"keywords": "Marketing Data Analyst", "location": "USA", "f_WT": ""},
@@ -34,7 +34,7 @@
   "timespan": "r84600",
   "jobs_tablename": "jobs",
   "filtered_jobs_tablename": "filtered_jobs",
-  "db_path": "/Users/vishesh/Desktop/insura/my_database.db",
+  "db_path": <db_path>,
   "pages_to_scrape": 10,
   "rounds": 1,
   "days_to_scrape": 3,
